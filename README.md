@@ -1,6 +1,6 @@
 # Weather Challenge
 
-> This project is build for Adaptavist hiring process.
+> This main objective of this project is to use Gradle as a tool to forcast weather around the world by using https://openweathermap.org/forecast5 API and Gradle Http builder https://github.com/http-builder-ng/gradle-http-plugin.
 
 ## Start using the application
 
